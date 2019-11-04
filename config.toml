@@ -1,3 +1,4 @@
 baseURL = "http://isya2020.saao.ac.za/"
 languageCode = "en-us"
 title = "ISYA 2020"
+theme = "isya"
