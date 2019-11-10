@@ -2,10 +2,14 @@
 <html>
     {{ partial "head.html" . }}
     <body>
-        {{ partial "header.html" . }}
-        <div id="content">
-        {{ block "main" . }}{{ end }}
+        <div id="page">
+            <div class="page-content-above-footer">
+                {{ partial "header.html" . }}
+                <div id="content">
+                    {{ block "main" . }}{{ end }}
+                </div>
+            </div>
+            {{ partial "footer.html" . }}
         </div>
-        {{ partial "footer.html" . }}
     </body>
 </html>
