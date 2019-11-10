@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2019-11-04T23:08:42+02:00
-draft: true
+draft: false
 ---
 
 ## Welcome to Cape Town
