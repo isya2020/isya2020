@@ -4,6 +4,8 @@ date: 2019-11-10T22:21:53+02:00
 draft: false
 ---
 
+## A broad overview of astronomy
+
 The following courses are planned.
 
 Course | Lecturer

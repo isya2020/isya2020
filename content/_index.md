@@ -6,12 +6,10 @@ draft: false
 
 ## Welcome to Cape Town
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The International School for Young Astronomers (ISYA) 2020 will be held in Cape Town, South Africa from 22 Nov to 11 Dec 2020. The school is organized by the International Astronomical Union (IAU), the Norwegian Academy of Science and Letters (NASL) and by the South African Astronomical Observatory (SAAO). This school will take place over a three-week period and is specifically aimed towards early graduate students (MSc/PhD) in Physics, Astronomy or Astrophysics from African countries. The lecturers are invited experts from around the world.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Around 30 students will be selected to participate in this school. These chosen students will be from regions where less opportunities are available for students to be directly exposed to the full extent of up-to-date astrophysics, both on theory and observations. Acceptance to the school covers flights to and from South Africa (including domestic flights) and accommodation at the ISYA. All selected students are expected to commit 100% of their time to participate in all the planned activities during the school.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+## LOC and SOC
 
-## Who can participate?
-
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+The LOC and SOC are being finalised.
