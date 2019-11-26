@@ -6,4 +6,5 @@ draft: false
 
 ## Interested in taking part?
 
-Applications aren't open yet.
+Please use the [application form](http://bit.ly/isya2020apply) to apply for ISYA 2020.
+.
