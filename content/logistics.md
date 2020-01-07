@@ -12,13 +12,11 @@ The Department of Home Affairs has recently amended the rules for the documents 
 
 Kindly note that the above is for information only and does not constitute legal advice. We strongly recommend you double-check requirements with your travel agent or a South African embassy.
 
-## Transport
+## Transport and Accommodation
 
-We'll provide transport from and to the airport.
+Transport will be provided from and to the airport.
 
-## Accommodation
-
-Accommodation will be provided for all participants.
+Accommodation will be provided for all participants.  The accommodation will be located close to the venue where the lectures will be held and transport will be provided from the accommodation to and from the venue.  Rooms will be assigned randomly and some of the rooms will be shared.  Accommodation and transport will also be provided for the Sutherland portion of the school.
 
 ## Venue
 
@@ -30,3 +28,4 @@ The Cape Town site is also one of the last remaining places close to the city ce
 The Office of Astronomy for Development (OAD, hosted by SAAO) is a joint project of the International Astronomical Union (IAU) and the NRF with the support of the DSI. Since 2013, the OAD has granted over €700 000 to more than 140 astronomy-for-development projects across the globe. The OAD leverages astronomy, in all its aspects, and is guided by the United Nations 'Sustainable Development Goals' to work towards a vision of "astronomy for a better world".
 
 SAAO’s main research telescopes (the Southern African Large Telescope included) are located at the observing site 15 km from the small Karoo town of Sutherland in the Northern Cape, a 4-hour drive from Cape Town. On a hill-top, 1800 metres above sea level and far from Cape Town’s city lights, stand 24 telescopes of various sizes and form, some owned by SAAO and some hosted for international research institutes. These telescopes give astronomers in South Africa and all over the world access to our exceptionally dark skies. The site is ideally placed in longitude between the other large optical observatories of the southern hemisphere (in Chile and Australia) and allows continuous coverage for time-critical observations.
+
