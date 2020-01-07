@@ -10,14 +10,14 @@ The following courses are planned.
 
 Course | Lecturer
 --- | ---
-Observational Techniques (mini-course) | TBD
-Stellar Evolution and Structure | TBD
-Galaxy Evolution | TBD
-Cosmology | TBD
-Galactic Structure | TBD
-Interstellar Medium | TBD
-Solar system and exoplanets | TBD
-Virtual Observatory and Databases | TBD
-Radio Astronomy | TBD
-Astrostatistics lab | TBD
+Observational Techniques (mini-course) | Rudi Kuhn
+Stellar Evolution and Structure | Shazrene Mohammed
+Galaxy Evolution | Michelle Cluver
+Cosmology | David Mota
+Galactic Structure | Francesca Figueras
+Interstellar Medium | Alexander Tielens
+Solar system and exoplanets | Jane Luu
+Virtual Observatory and Databases | Itziar Aretxaga
+Radio Astronomy | James Chibueze
+Astrostatistics lab | Juan Rafael Martínez Galarza
 
