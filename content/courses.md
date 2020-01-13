@@ -1,7 +1,7 @@
 ---
 title: "Courses"
-date: 2019-11-10T22:21:53+02:00
-draft: false
+draft: no
+date: '2019-11-10T22:21:53+02:00'
 ---
 
 ## A broad overview of astronomy
