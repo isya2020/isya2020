@@ -8,7 +8,7 @@ draft: false
 
 The following courses are planned.
 
-Course | Lecturer
+Course | Lecturer | Course Information
 --- | --- | ---
 Observational Techniques (mini-course) | Rudi Kuhn (SAAO, South Africa) | [Course Info](/content/)
 Stellar Evolution and Structure | Shazrene Mohammed (SAAO/UCT, South Africa) | [Course Info](/content/)
