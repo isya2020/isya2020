@@ -10,8 +10,8 @@ The following courses are planned.
 
 Course | Lecturer | Course Information
 --- | --- | ---
-Observational Techniques (mini-course) | Rudi Kuhn (SAAO, South Africa) | [Course Info]()
-Stellar Evolution and Structure | Shazrene Mohammed (SAAO/UCT, South Africa) | [Course Info]()
+Observational Techniques (mini-course) | Rudi Kuhn (SAAO, South Africa) | [N/A
+Stellar Evolution and Structure | Shazrene Mohammed (SAAO/UCT, South Africa) | N/A
 Galaxy Evolution | Michelle Cluver (Swinburne University of Technology, Australia) | [Course Info](/content/CourseInfo_Galaxy_Evolution_ISYA2020.pdf)
 Cosmology | David Mota (U. Oslo, Norway) | [Course Info](/content/CourseInfo_Cosmology_ISYA2020.pdf)
 Galactic Structure | Francesca Figueras (University of Barcelona, Spain) | [Course Info](/content/CourseInfo_Galactic_Structure_ISYA2020.pdf)
