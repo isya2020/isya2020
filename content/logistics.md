@@ -10,7 +10,7 @@ The IATA offers an interactive page with [visa and passport requirements](https:
 
 The Department of Home Affairs has recently amended the rules for the documents required by children under the age of 18 entering South Africa. Please see the [Department of Home Affairs’ website](http://www.dha.gov.za/index.php/statements-speeches/621-updated-advisory-new-requirements-for-children-travelling-through-south-african-ports-of-entry) for more details.
 
-Kindly note that the above is for information only and does not constitute legal advice. We strongly recommend you double-check requirements with your travel agent or a South African embassy.
+Kindly note that the above is for information only and does not constitute legal advice. We _strongly_ recommend you double-check requirements with your travel agent or a South African embassy.
 
 ## Transport
 
