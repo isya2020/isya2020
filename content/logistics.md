@@ -6,7 +6,7 @@ draft: false
 
 ## Visa requirements
 
-The IATA offers an interactive page with [visa and passport requirements](https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm. Please make sure that your passport has sufficiently many empty pages and doesn’t expire too soon.
+The IATA offers an interactive page with [visa and passport requirements](https://www.iatatravelcentre.com/passport-visa-health-travel-document-requirements.htm). Please make sure that your passport has sufficiently many empty pages and doesn’t expire too soon.
 
 The Department of Home Affairs has recently amended the rules for the documents required by children under the age of 18 entering South Africa. Please see the [Department of Home Affairs’ website](http://www.dha.gov.za/index.php/statements-speeches/621-updated-advisory-new-requirements-for-children-travelling-through-south-african-ports-of-entry) for more details.
 
