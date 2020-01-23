@@ -28,3 +28,12 @@ The Cape Town site is also one of the last remaining places close to the city ce
 The Office of Astronomy for Development (OAD, hosted by SAAO) is a joint project of the International Astronomical Union (IAU) and the NRF with the support of the DSI. Since 2013, the OAD has granted over €700 000 to more than 140 astronomy-for-development projects across the globe. The OAD leverages astronomy, in all its aspects, and is guided by the United Nations 'Sustainable Development Goals' to work towards a vision of "astronomy for a better world".
 
 SAAO’s main research telescopes (the Southern African Large Telescope included) are located at the observing site 15 km from the small Karoo town of Sutherland in the Northern Cape, a 4-hour drive from Cape Town. On a hill-top, 1800 metres above sea level and far from Cape Town’s city lights, stand 24 telescopes of various sizes and form, some owned by SAAO and some hosted for international research institutes. These telescopes give astronomers in South Africa and all over the world access to our exceptionally dark skies. The site is ideally placed in longitude between the other large optical observatories of the southern hemisphere (in Chile and Australia) and allows continuous coverage for time-critical observations.
+
+## Weekend activities
+
+We will arrange rest and recreational activities in and aroud Cape Town to take place on the weekends. These activities will be weather depended. We will strive to make these activities as inclusive as possible. Potential places we aim to visit are listed below:
+
+* [Kirstenbosch National Botanical Garden](https://www.sanbi.org/gardens/kirstenbosch/)
+* [Cape Point](https://capepoint.co.za/)
+* TBD
+
