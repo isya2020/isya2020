@@ -16,7 +16,7 @@ Kindly note that the above is for information only and does not constitute legal
 
 Transport will be provided from and to the airport.
 
-The participants will be staying at the [Green Elephant Backpackers Hostel](http://www.greenelephant.co.za/) and is paid for by the ISYA. The backpackers hostel is located about 1.6 km from the SAAO but transport will be provided to and from the venue. Rooms will be assigned randomly and some of the rooms will be shared. Accommodation and transport will also be provided for the Sutherland portion of the school.
+The participants will be staying at the [Green Elephant Backpackers Hostel](http://www.greenelephant.co.za/) and the accomodation is paid for by the ISYA. The backpackers hostel is located about 1.6 km from the SAAO but transport will be provided to and from the venue. Rooms will be assigned randomly and some of the rooms will be shared. Accommodation and transport will also be provided for the Sutherland portion of the school.
 
 ## Venue
 
