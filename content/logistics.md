@@ -12,13 +12,11 @@ The Department of Home Affairs has recently amended the rules for the documents 
 
 Kindly note that the above is for information only and does not constitute legal advice. We strongly recommend you double-check requirements with your travel agent or a South African embassy.
 
-## Transport
+## Transport and Accommodation
 
-We'll provide transport from and to the airport.
+Transport will be provided from and to the airport.
 
-## Accommodation
-
-Accommodation will be provided for all participants.
+The participants will be staying at the [Green Elephant Backpackers Hostel](http://www.greenelephant.co.za/) and is paid for by the ISYA. The backpackers hostel is located about 1.6 km from the SAAO but transport will be provided to and from the venue. Rooms will be assigned randomly and some of the rooms will be shared. Accommodation and transport will also be provided for the Sutherland portion of the school.
 
 ## Venue
 
