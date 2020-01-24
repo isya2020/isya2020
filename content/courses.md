@@ -12,7 +12,7 @@ Course | Lecturer | Course Information
 --- | --- | ---
 Stellar Evolution and Structure | Shazrene Mohammed (SAAO/UCT, South Africa) | [Course Info](CourseInfo_Stellar_Structure_Evolution_ISYA2020.pdf)
 Galaxy Evolution | Michelle Cluver (Swinburne University of Technology, Australia) | [Course Info](/static/CourseInfo_Galaxy_Evolution_ISYA2020.pdf)
-Cosmology | David Mota (U. Oslo, Norway) | [Course Info](/content/CourseInfo_Cosmology_ISYA2020.pdf)
+Cosmology | David Mota (U. Oslo, Norway) | [Course Info](CourseInfo_Cosmology_ISYA2020.pdf)
 Galactic Structure | Francesca Figueras (University of Barcelona, Spain) | [Course Info](/content/CourseInfo_Galactic_Structure_ISYA2020.pdf)
 Interstellar Medium | Alexander Tielens (Leiden University, Netherlands) | [Course Info](/content/CourseInfo_ISM_ISYA2020.pdf)
 Solar system and exoplanets | Jane Luu (MIT, USA) | [Course Info](/content/CourseInfo_SolarSystem_Exoplanets_ISYA2020.pdf)
